@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+.DS_Store
+Icon?
+*.png
+*~
+*.tc*
+*.o
+*.so
+*.db
+*.log
+*.tsv
+tmtags
